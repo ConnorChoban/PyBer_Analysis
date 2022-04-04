@@ -10,7 +10,8 @@ Looking at the diagram below, we can make several observations. We can see that 
 
 Looking at the amount of fares over the first few months of the year, you can see that there is a significant drop in fares in the month of April, which is something that we should dedicate additional resources to determine the root cause. 
 
-![Chart](https://user-images.githubusercontent.com/99847786/161472173-c0c82421-3e28-4a92-9caa-dc9bbeee068e.png)
+<img width="632" alt="Screen Shot 2022-04-04 at 12 01 10 AM" src="https://user-images.githubusercontent.com/99847786/161472765-c9c75cb6-3a4b-4132-8298-b0b363f1e6d3.png">
+
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/99847786/161470388-b40364da-09e1-449c-8b45-15da911d8dea.png)
 
