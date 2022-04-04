@@ -10,13 +10,12 @@ Looking at the diagram below, we can make several observations. We can see that 
 
 Looking at the amount of fares over the first few months of the year, you can see that there is a significant drop in fares in the month of April, which is something that we should dedicate additional resources to determine the root cause. 
 
-	Total Rides	Total Drivers	Total Fares	Average Fare per Ride	Average Fare per Driver
-type					
-Rural	125	78	4327.93	34.623440	55.486282
-Suburban	625	490	19356.33	30.970128	39.502714
-Urban	1625	2405	39854.38	24.525772	16.571468
+![Chart](https://user-images.githubusercontent.com/99847786/161472173-c0c82421-3e28-4a92-9caa-dc9bbeee068e.png)
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/99847786/161470388-b40364da-09e1-449c-8b45-15da911d8dea.png)
 
 
 Summary
+
+My first recommendation would be to conduct furthr analysis on the drop in rides during the first few weeks of April. If we discover the root cause for the sudden drop in demand, we can better adapt our policies to promote our ride-sharing service during this time. 
+
